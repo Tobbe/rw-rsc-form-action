@@ -17198,12 +17198,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:18.3.0-canary-035a41c4e-20230704":
-  version: 18.3.0-canary-035a41c4e-20230704
-  resolution: "react@npm:18.3.0-canary-035a41c4e-20230704"
+"react@npm:experimental":
+  version: 0.0.0-experimental-e5205658f-20230913
+  resolution: "react@npm:0.0.0-experimental-e5205658f-20230913"
   dependencies:
     loose-envify: ^1.1.0
-  checksum: 01a8d9ccb5d636a789a68404ea428f9eabc7d6d8fa5759c30653eef04d9a251a5c3a9b5c2c0f7768b0827d6ce250cd37cab5825af31583756ee2a8af669a6d27
+  checksum: 69f384cd192d6fc83bd77457b539c171cd89b44fd105c67c77a2c57b237c1068c598470ddf524084bdb7d9b0bc16362918493dbc3fbcb909af8edd92c6be9759
   languageName: node
   linkType: hard
 
