@@ -7,7 +7,7 @@
     ]
   },
   "devDependencies": {
-    "@redwoodjs/core": "7.0.0-canary.312"
+    "@redwoodjs/core": "7.0.0-canary.316"
   },
   "eslintConfig": {
     "extends": "@redwoodjs/eslint-config",
@@ -20,8 +20,5 @@
   "prisma": {
     "seed": "yarn rw exec seed"
   },
-  "packageManager": "yarn@3.6.3",
-  "resolutions": {
-    "react": "experimental"
-  }
+  "packageManager": "yarn@3.6.3"
 }
